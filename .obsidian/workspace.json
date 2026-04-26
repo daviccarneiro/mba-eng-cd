@@ -11,10 +11,15 @@
             "id": "42cf335d67f5580e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -108,8 +113,7 @@
               "title": "Terminal: OC | AGENTS.md e estrutura Obsidian para MBA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,16 +128,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "356bfc874bf39f14",
+  "active": "c651b039bd355afb",
   "lastOpenFiles": [
+    "README.md",
+    "AGENTS.md",
     "90-anexos",
     "04-referencias",
     "03-projetos",
     "02-disciplinas",
     "01-aulas",
     "00-entrada",
-    "README.md",
-    "AGENTS.md",
     "Anotações/Edital FAPESQ/Submissão FAPESQ.md",
     "Repositórios/cursos/mba-eng-cd/data.base",
     "Repositórios/cursos/mba-eng-cd/25-04-2026/01-db-modeling.md",
@@ -153,7 +157,6 @@
     "Artigos/INT01.md",
     "Finanças/Finaças.md",
     "Artigos/Publicados",
-    "Finanças/Finanças.base",
     "Finanças/Ceety 307.md",
     "Conteudos/7 coisas que aprendi ao terminar um doutorado.md",
     "Conteudos/Nosso erro é querer acertar de primeira..md",
