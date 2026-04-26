@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.inFolder("Repositórios/cursos/mba-eng-cd")
+    - file.ext == "md"
+    - "!date.isEmpty()"
+views:
+  - type: table
+    name: Todas
+    order:
+      - file.name
+      - title
+      - date
+      - prof
+    columnSize:
+      file.name: 169
+      note.title: 173

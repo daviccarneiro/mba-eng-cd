@@ -1,6 +1,6 @@
 ---
 date: 2026-04-25
-title: Database Modeling
+title: Database Modeling 1/3
 prof: Vladimir
 ---
 ---
