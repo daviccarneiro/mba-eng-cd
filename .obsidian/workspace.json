@@ -105,14 +105,15 @@
                 }
               },
               "icon": "terminal",
-              "title": "Terminal: davicarneiro@Davis-MacBook-Pro:~/Desktop/mba-eng-cd"
+              "title": "Terminal: OC | AGENTS.md e estrutura Obsidian para MBA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 464.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -123,7 +124,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c651b039bd355afb",
+  "active": "356bfc874bf39f14",
   "lastOpenFiles": [
     "Anotações/Edital FAPESQ/Submissão FAPESQ.md",
     "Repositórios/cursos/mba-eng-cd/data.base",
