@@ -68,13 +68,13 @@
             }
           },
           {
-            "id": "6099af1acc9034bf",
+            "id": "356bfc874bf39f14",
             "type": "leaf",
             "state": {
               "type": "terminal:terminal",
               "state": {
                 "terminal:terminal": {
-                  "cwd": "/Users/davicarneiro/Desktop/obsidian-davicc",
+                  "cwd": "/Users/davicarneiro/Desktop/mba-eng-cd",
                   "focus": false,
                   "profile": {
                     "args": [
@@ -84,7 +84,8 @@
                     "followTheme": true,
                     "name": "",
                     "platforms": {
-                      "darwin": true
+                      "darwin": true,
+                      "linux": true
                     },
                     "pythonExecutable": "python3",
                     "restoreHistory": false,
@@ -104,7 +105,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "Terminal: davicarneiro@Davis-MacBook-Pro:~/Desktop/obsidian-davicc"
+              "title": "Terminal: davicarneiro@Davis-MacBook-Pro:~/Desktop/mba-eng-cd"
             }
           }
         ]
