@@ -59,22 +59,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8a3d109e140e60c0",
+        "id": "f89dc01caa52fcdc",
         "type": "tabs",
         "children": [
           {
-            "id": "c651b039bd355afb",
+            "id": "ea0ef5f9337bf8f9",
             "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "356bfc874bf39f14",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "terminal:terminal",
               "state": {
@@ -109,15 +100,17 @@
                   "serial": null
                 }
               },
+              "pinned": true,
               "icon": "terminal",
-              "title": "Terminal: OC | AGENTS.md e estrutura Obsidian para MBA"
+              "title": "Terminal: davicarneiro@Davis-MacBook-Pro:~/Desktop/mba-eng-cd"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 292.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -128,7 +121,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c651b039bd355afb",
+  "active": "42cf335d67f5580e",
   "lastOpenFiles": [
     "README.md",
     "AGENTS.md",
