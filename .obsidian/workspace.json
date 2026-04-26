@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "7b3675d4f556a768",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7cd7f130eea8bae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42cf335d67f5580e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dbaa5ac05b57060",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbff872942691127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daebba2a9df6039b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "136c53c1bac1956b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a3d109e140e60c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c651b039bd355afb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "6099af1acc9034bf",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/davicarneiro/Desktop/obsidian-davicc",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "Terminal: davicarneiro@Davis-MacBook-Pro:~/Desktop/obsidian-davicc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "c651b039bd355afb",
+  "lastOpenFiles": [
+    "Anotações/Edital FAPESQ/Submissão FAPESQ.md",
+    "Repositórios/cursos/mba-eng-cd/data.base",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/01-db-modeling.md",
+    "Anotações/Edital FAPESQ/23_03_26-edital-no-09-2026-2013-quinta-chamada-desafios-tecnologicos-e-inovacao-saude-digital-e-biotecnologia.pdf",
+    "Anotações/Edital FAPESQ",
+    "Repositórios/cursos/mba-eng-cd/home.md",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/Drawing 2026-04-26 16.25.59.excalidraw.md",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/conceitual.md",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/logico.svg",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/Loja de Bicicletas (descritivo).md",
+    "readme.md",
+    "AGENTS.md",
+    "Anotações/Cupons.md",
+    "Artigos/draft01.md",
+    "Artigos/INT04.md",
+    "Artigos/INT03.md",
+    "Artigos/INT02.md",
+    "Artigos/INT01.md",
+    "Finanças/Finaças.md",
+    "Artigos/Publicados",
+    "Finanças/Finanças.base",
+    "Finanças/Ceety 307.md",
+    "Finanças/Ceety - 307/Documentos",
+    "Untitled.base",
+    "Finanças/Ceety - 307",
+    "Conteudos/7 coisas que aprendi ao terminar um doutorado.md",
+    "Finanças",
+    "Conteudos/Nosso erro é querer acertar de primeira..md",
+    "Conteudos/Variáveis de Ambiente.md",
+    "Conteudos/Eu odeio Scrum, e você também deveria odiar..md",
+    "Conteudos/Raycast -  O app que mais impulsiona minha produtividade.md",
+    "Conteudos/O jeito certo de criar uma lista de tarefas.md",
+    "Conteudos/Headless CMS - Como gerenciar ou delegar conteúdo.md",
+    "Conteudos/Usando Obsidian com Astro.md",
+    "Conteudos/Diferenças de Licenças de Software.md",
+    "Conteudos",
+    "Untitled Diagram.svg",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/Pasted image 20260425132646.png",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/Pasted image 20260425113052.png",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/Pasted image 20260425131122.png",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/Pasted image 20260425130812.png",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/Pasted image 20260425113656.png",
+    "Repositórios/cursos/mba-eng-cd/25-04-2026/Pasted image 20260425113130.png"
+  ]
+}
